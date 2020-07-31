@@ -6,7 +6,7 @@ Setup:
 
 ```
 
-git clone https://github.com/nahidlu/deckofcards.git
+git clone https://github.com/nahidlus/deckofcards.git
 
 cd deckofcards
 
